@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #6ef0ff;
+  --accent2: #f5d36c;
+}
+
+body {
+  font-family: 'Cinzel', 'Orbitron', system-ui, sans-serif;
+}
